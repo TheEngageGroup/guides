@@ -1,3 +1,8 @@
-## A New Post
+## Setting up a new email
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+When coding an email from scratch, start by:
+- creating a repository in bitbucket
+- reference the basecamp project if applicable
+- Use the HTML Email boilerplate and Ink by Zurb
+
+
