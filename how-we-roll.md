@@ -5,7 +5,6 @@ Engage has always had an atmosphere of ownership.  We try our best not to create
 The guidelines set forth in this document only purpose is to do, well, guide.  Hopefully, what you get out of these documents are a strong sense of what to do when and that they help you navigate through your job.
 
 ### Credits
-
 We've borrowed heavily from several great companies and the work they've published and shared with the community.  Here are a few:
 
 - Thoughtbot's playbook
