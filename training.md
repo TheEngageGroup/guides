@@ -1,4 +1,4 @@
-## Getting your learn on
+## You can learn stuff too
 
 There are several opportunities to learn new techologies or get better at the ones you already know here.  Hopefully, you get the sense that learning new things is encouraged and that we really really love to play with new tech and toys.    
 
