@@ -10,4 +10,8 @@ Here are a few groundrules to get started:
 - On the whole, you should target 80% of your time as billable to a job.  If you feel that you won't reach that number for the week/month you should reach out to the group right away for more work.  
 - The other 20% is reserved for learning, special projects and other admin duties.
 
+We record our time in the following categories and designations:
+- PD: production work
+
+
 
