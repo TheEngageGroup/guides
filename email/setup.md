@@ -1,3 +1,3 @@
-## A New Post
+## Setting up an email
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+When building out an email for the first time, create a new repository in butbucket and reference the basecamp project in the readme file.
