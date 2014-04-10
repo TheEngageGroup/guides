@@ -7,7 +7,7 @@ Here are a few groundrules to get started:
 - We record time in quarter hour increments.
 - We use Basecamp time tracking to record our time.
 - Record your time in as small increments as possible where each entry is for a single task (or as close to it as possible).
-- On the whole, you should target 80% of your time as billable to a job.  If you feel that you won't reach that number for the week/month you should reach out to the group right away for more work.  
+- **On the whole, you should target 80% of your time as billable to a job.  If you feel that you won't reach that number for the week/month you should reach out to your peers for more work.**
 - The other 20% is reserved for learning, special projects and other admin duties.
 
 We record our time in the following categories and designations:
