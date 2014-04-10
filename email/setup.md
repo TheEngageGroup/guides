@@ -7,4 +7,4 @@ When coding an email from scratch, start by:
 
 ## Testing
 
-When ready to test the email, send your tests to Litmus.com(https://litmus.com/tests). You can automatically send the html email directly via: pmgteg.c3b417f.new@emailtests.com(pmgteg.c3b417f.new@emailtests.com).
+When ready to test the email, send your tests to Litmus.com(https://litmus.com/tests). You can automatically send the html email directly via: pmgteg.c3b417f.new@emailtests.com.
