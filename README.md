@@ -11,6 +11,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Code Review](/code-review)
 * [Best Practices](/best-practices)
 * [Style](/style)
+* [Email](/email)
 
 High level guidelines:
 
