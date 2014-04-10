@@ -1,6 +1,6 @@
 ## Getting your learn on
 
-There are several opportunities to learn new techologies or get better at the ones you already know here at Engage.  Hopefully, you get the sense that learning new things is encouraged and that we really really love to play with new toys :).  
+There are several opportunities to learn new techologies or get better at the ones you already know here.  Hopefully, you get the sense that learning new things is encouraged and that we really really love to play with new tech and toys.    
 
 To that effect, we have accounts with several of the top online learning sites on the web, including:
 
@@ -10,6 +10,8 @@ To that effect, we have accounts with several of the top online learning sites o
 - Frontend Masters
 - Railscasts
 - Tuts+
+
+To give you some ideas, we spend a lot of time buidling html emails, writing front end code such as HTML/CSS/Javascript, and play around with frameworks like Bootstrap, Ruby on Rails, SASS, jQuery, and NodeJs.
 
 ## Requesting one off and live training
 
